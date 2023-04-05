@@ -32,7 +32,7 @@ main {
     margin-top: .5rem;
     width:94vw;
     max-width: 230px;
-    padding: 1vh 1vw;
+    padding: 2vh 1vw;
     font-size: 1.6rem;
     color: white;
     border-radius: 14px;
@@ -47,7 +47,7 @@ main {
 @media(min-width:550px){
     .character-card {
         border: 0.2rem solid #000721;
-        height:26rem;
+        height:30rem;
         width:37vw;
     }
 }
